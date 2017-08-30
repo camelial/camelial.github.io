@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/projectmanagement003.png
 title: Project Management Application
 permalink: projects/projectmanagementapp.md
 date: 2017
