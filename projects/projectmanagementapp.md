@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
+title: Project Management Application
 permalink: projects/projectmanagementapp.md
 date: 2017
 labels:
