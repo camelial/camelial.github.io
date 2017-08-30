@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/projectmanagement003.png
+image: images/pm003.jpg
 title: Project Management Application
 permalink: projects/projectmanagementapp.md
 date: 2017
