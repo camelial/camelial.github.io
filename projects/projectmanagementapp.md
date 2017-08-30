@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/pm003.jpg
 title: Project Management App
-permalink: projects/projectmanagementapp.md
+permalink: projects/projectmanagementapp
 date: 2017
 labels:
   - Microsoft
