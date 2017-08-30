@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/projectsearch.jpg
 title: Microsoft Outlook Project Search Tool
 permalink: projects/outlooksearch
 date: 2017
