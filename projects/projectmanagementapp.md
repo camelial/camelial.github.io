@@ -15,7 +15,7 @@ summary: I created a project management Outlook application for engineers during
 
 <div style="float: right;">
 <img class="ui image" src="../images/pm004.PNG">
-<img class="ui medium right floated rounded image" src="../images/pm005.PNG">
+<img class="ui image" src="../images/pm005.PNG">
 </div>
 
 
