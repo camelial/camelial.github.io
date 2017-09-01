@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: JavaScript? Not Bad, Just Weird - In a Good Way.
+title: JavaScript? Not Bad, Just Weird, in a Good Way!
 date: 2017-08-31
 labels:
   - JavaScript
