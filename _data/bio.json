@@ -54,12 +54,13 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
+        "LabVIEW",
         "C",
-        "C++",
+        "C#",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "XML",
+        "JSON"
       ]
     },
     {
@@ -67,75 +68,85 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
+        "Windows",
+        "Arduino",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Microsoft Office"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2020)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2016-09-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "4.0",
       "courses": [
+        {
+          "ICS 111 - Intro to Computer Science I",
+          "ICS 211 - Intro to Computer Science II",
+          "ICS 141 - Discrete Math 1",
+          "ICS 241 - Discrete Math 2",
+          "ICS 311 - Algorithms (current)",
+          "ICS 314 - Software Engineering I (current)",
+          "MATH 241 - Calculus I",
+          "MATH 242 - Calculus II",
+          "PHYS 151/151L - College Physics I and lab",
+          "CHEM 162/162L - Chemistry II and lab",
+          "ANTH 151 - Emerging Humanity", 
+          "GEOG 102 - World Regional Geography",
+          "AMST 212 - Global American Issues (current)",
+          "JPN 202 - Intermediate Japanese II (current)"
+        }
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Kai Hawaii, Inc.",
+      "position": "IT Assistant",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2017-03-02",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Computer, network, and server maintainence and developing Microsoft Outlook applications",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Developed project folder search and engineering project management add-ins for Microsoft Outlook"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Upspring Media, LLC",
+      "position": "Website Development Intern",
+      "website": "",
+      "startDate": "2016-07-01",
+      "endDate": "2016-09-01",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Helped with the development of a website for the Hawaii Space Grant Consortium robotics outreach program",
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Kalani High School Robotics Team",
+      "website": "",
+      "position": "VEX Team Coach",
+      "startDate": "2017-08-15",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Coaching the Kalani VEX Robotics team in the robot design process and programming",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
       ]
     },
     {
-      "organization": "",
+      "organization": "Hawaii Interdisciplinary Neuroscience and Technology (HINT) Lab at U.H. Manoa",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "position": "Volunteer Lab Assistant",
+      "startDate": "2015",
+      "endDate": "Present",
+      "summary": "Assisting with the setup and running various experiments",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Eye-tracking study on how people interpret code",
       ]
     }
   ],
