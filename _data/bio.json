@@ -84,7 +84,6 @@
       "endDate": "Present",
       "gpa": "4.0",
       "courses": [
-        {
           "ICS 111 - Intro to Computer Science I",
           "ICS 211 - Intro to Computer Science II",
           "ICS 141 - Discrete Math 1",
@@ -99,7 +98,6 @@
           "GEOG 102 - World Regional Geography",
           "AMST 212 - Global American Issues (current)",
           "JPN 202 - Intermediate Japanese II (current)"
-        }
       ]
     }
   ],
@@ -119,8 +117,8 @@
       "company": "Upspring Media, LLC",
       "position": "Website Development Intern",
       "website": "",
-      "startDate": "2016-07-01",
-      "endDate": "2016-09-01",
+      "startDate": "2016-07",
+      "endDate": "2016-09",
       "summary": "",
       "highlights": [
         "Helped with the development of a website for the Hawaii Space Grant Consortium robotics outreach program",
@@ -152,16 +150,28 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Fred and Annie Chan Scholarship",
+      "date": "2016, 2017",
+      "awarder": "University of Hawaii at Manoa, ICS Department",
+      "summary": ""
     },
     {
-      "title": "First place",
+      "title": "Manoa Chancellor's Scholarship",
+      "date": "2016-present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": ""
+    },
+    {
+      "title": "NCWIT Aspirations in Computing Award",
       "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "awarder": "National Center for Women in Information Technology (NCWIT)",
+      "summary": "This award is presented to girls who are very active in pursuing education in computing and inspiring others."
+    },
+    {
+      "title": "NCWIT AspireIT Outreach Grant",
+      "date": "2015",
+      "awarder": "National Center for Women in Information Technology (NCWIT)",
+      "summary": "I recieved a $3,000 grant to start GTEC, my outreach program to teach and encourage girls get inspired and educated in STEM and computing."
     }
   ],
   "references": [
