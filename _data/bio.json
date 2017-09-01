@@ -84,20 +84,20 @@
       "endDate": "Present",
       "gpa": "4.0",
       "courses": [
-          "ICS 111 - Intro to Computer Science I",
-          "ICS 211 - Intro to Computer Science II",
-          "ICS 141 - Discrete Math 1",
-          "ICS 241 - Discrete Math 2",
-          "ICS 311 - Algorithms (current)",
-          "ICS 314 - Software Engineering I (current)",
-          "MATH 241 - Calculus I",
-          "MATH 242 - Calculus II",
-          "PHYS 151/151L - College Physics I and lab",
-          "CHEM 162/162L - Chemistry II and lab",
-          "ANTH 151 - Emerging Humanity", 
-          "GEOG 102 - World Regional Geography",
-          "AMST 212 - Global American Issues (current)",
-          "JPN 202 - Intermediate Japanese II (current)"
+          "ICS 111 Intro to Computer Science I",
+          "ICS 211 Intro to Computer Science II",
+          "ICS 141 Discrete Math 1",
+          "ICS 241 Discrete Math 2",
+          "ICS 311 Algorithms (current)",
+          "ICS 314 Software Engineering I (current)",
+          "MATH 241 Calculus I",
+          "MATH 242 Calculus II",
+          "PHYS 151/151L College Physics I and lab",
+          "CHEM 162/162L Chemistry II and lab",
+          "ANTH 151 Emerging Humanity", 
+          "GEOG 102 World Regional Geography",
+          "AMST 212 Global American Issues (current)",
+          "JPN 202 Intermediate Japanese II (current)"
       ]
     }
   ],
@@ -122,6 +122,17 @@
       "summary": "",
       "highlights": [
         "Helped with the development of a website for the Hawaii Space Grant Consortium robotics outreach program",
+      ]
+    },
+    {
+      "company": "Times Supermarkets",
+      "position": "Cashier",
+      "website": "",
+      "startDate": "2015-07",
+      "endDate": "2017-02",
+      "summary": "",
+      "highlights": [
+        "",
       ]
     }
   ],
