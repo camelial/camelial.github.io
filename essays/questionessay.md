@@ -1,7 +1,6 @@
 ---
 layout: essay
 type: essay
-published: false
 title: Questions - the Good, the Bad, and the Ugly
 date: 2017-09-07
 labels:
