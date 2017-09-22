@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: 
+title: Coding Standards - the Petty Police of the Programming Planet
 date: 2017-09-21
 labels:
   - Software Engineering
