@@ -19,13 +19,13 @@ labels:
   
 Making life easier isn’t always as easy. Some people are already experts at it, but everyone starts at square one. Semantic UI is a good example of that notion. So what is it all worth? What makes people persist in learning Semantic and other UI’s, even though learning how to use them can be such a headache at first? Before we answer that, let’s take a look at some alternative options.
   
-<h3 class="ui header">Plain ol' HTML</h3>
+## Plain ol' HTML
   This is the college math professors’ favorite. People who love to type and squint at tiny words on screens also love HTML. People who love making websites that look like they are from the 1990’s also love HTML. It’s pretty tedious and even more tedious if you want good results, but it’s also straightforward and easy to learn.
   
- <h3 class="ui header">Wix</h3>
+## Wix
 People who hate typing and love to drag boxes around love Wix. It’s so easy! If you want a box, you literally just drag one onto your page. You can easily change the size, color, and style to whatever you want by just clicking things and dragging things. Results usually look nice, but Wix can sometimes be tedious. You have to deal with things like uploading images which takes a long time, and you’re limited to only a handful of styles. Wix also wants you to give them money.
   
 As someone who has used both plain HTML and Wix and has recently been introduced to Semantic UI, I can understand why mastering a UI is worth the effort. Semantic UI can get you the same professional results that you’d get from Wix. It’s tedious, but not as tedious as using plain HTML would be to get the same results. Plus, it’s highly customizable – much more so than Wix, all while being totally free to use however you wish! By becoming a master of Semantic UI, you’d be able to mimic practically any website you want. Employers would be all over you. How cool is that?
   
-<h3 class="ui header">And so, is it worth it?</h3>
+## And so, is it worth it?
 Of course it is. Like any worthwhile thing, Semantic UI is difficult to get used to at first, but mastering it will make your life a whole lot better. Don’t be fooled with how easy it looks on videos, and don’t be discouraged with how difficult it is for you the first time you try it. Be persistent! As tempting as it might be to revert back to using Wix and plain ol’ HTML, your career will thank you for mastering UI’s, just as your body will thank you for choosing healthy food over cup-noodles with sriracha and popcorn. Who making life easier was going to be easy? No one. Who said making life easier was going to make life easier? Just about everyone. So go for it. Make that quinoa-acai-basil-watercress-tofu-garbonzo-bean-casserole with mango sauce over and over again until you get featured on the Food Channel yourself!
