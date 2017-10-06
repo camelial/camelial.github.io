@@ -9,7 +9,7 @@ labels:
   - Web Development
 ---
 
-<img class="ui tiny right floated circular image" src="http://www.everydaydiabeticrecipes.com/master_images/MrFood/EDR%20Southwestern%20Chicken%20Casserole1.jpg">
+<img class="ui tiny right floated circular image" src="../images/healthy-food.jpg">
 
   You come home after a long, hard day at school, work, or both. You feel like binge-eating, so you plop yourself down on your big, comfy couch with a bag of chips, a tub of ice cream, or both. You turn on your TV, wondering what’s on right now. It’s the Food Channel! You watch, fascinated, as a middle-aged woman puts together an AMAZING quinoa-acai-basil-watercress-tofu-garbonzo-bean-casserole with mango sauce, enthusiastically explaining how delicious and healthy it is, and how wonderfully easy it is to make yourself. Suddenly, you feel very guilty because the healthiest dish you’ve ever made is cup-noodles with sriracha and popcorn. The guilt becomes so strong that it pushes you out of your comfortable position on the couch and compels you to put the chips and ice cream back where they belong and instead, cook up a nice, fresh, healthy, quinoa-acai-basil-watercress-tofu-garbonzo-bean-casserole with mango sauce for yourself. You’re hyped! The lady made it look so easy! You’re going to become a master chef in no time! Bye-bye, cup noodles and hellooooo to fancy, delicious, healthy food from now on! 
 
