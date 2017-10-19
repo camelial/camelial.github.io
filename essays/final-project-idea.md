@@ -34,10 +34,12 @@ labels:
  * User goes to the home page and there is a list of events for the day
  * The user can log in and see personalized stuff, set up their profile, and see notifications
  * After logging in, the user can add events to their personal calendar and see more details about events
+ * Event coordinators can post events. They will have special permission to do this (somehow.)
  
 # Beyond the basics
  * The user would be able to add friends mark events as "going, interested, etc" like Facebook and see which of their friends are going.
  * Yelp features - add photos and ratings to events.
+ * There would be a system of legitimizing events that people post so that people can't get away with making things up.
  
  This essay was collaboratively written by Mark and Cammy.
  
