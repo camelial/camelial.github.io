@@ -41,7 +41,7 @@ labels:
  * Yelp features - add photos and ratings to events.
  * There would be a system of legitimizing events that people post so that people can't get away with making things up.
  
- This essay was collaboratively written by Mark and Cammy.
+ This essay was collaboratively written by Mark and me.
  
  
  
