@@ -4,12 +4,12 @@
     "label": "Student",
     "picture": "https://camelial.github.io/images/cammy2.jpg",
     "email": "camelial@hawaii.edu",
-    "phone": "808-372-8970",
+    "phone": "",
     "website": "https://camelial.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020",
     "location": {
-      "address": "2373A Palolo Avenue",
-      "postalCode": "96816",
+      "address": "",
+      "postalCode": "",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -31,7 +31,7 @@
     {
       "name": "databases",
       "keywords": [
-        ]
+       ]
     },
     {
       "name": "artificial intelligence",
@@ -59,11 +59,13 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
+        "SQL",
         "LabVIEW",
         "C",
         "C#",
         "Java",
         "Javascript",
+        "HTML/CSS",
         "XML",
         "JSON"
       ]
@@ -72,6 +74,8 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
+        "Meteor",
+        "Semantic UI",
         "MacOS",
         "Windows",
         "Arduino",
@@ -114,7 +118,7 @@
       "startDate": "2017-11-28",
       "endDate": "present",
       "summary": "Maintaining the student registration databases for the STAR Registration system for the University of Hawaii."
-      "hilights": [
+      "highlights": [
         "Developing subprocedures in SQL"
       ]
     },
