@@ -19,6 +19,8 @@ Venture is a web application created to help students at U.H. Manoa find activit
 
 <div>
 <img class="ui medium right floated image" src="../images/venture-final-friend-search.png">
+</div>
+<div>
 <img class="ui medium right floated image" src="../images/venture-final-dashboard-2.png">
 </div>
 
