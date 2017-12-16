@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/venture-final-snippet.png
+image: images/venture-final-snippet.PNG
 title: Venture
 permalink: projects/venture
 date: 2017
