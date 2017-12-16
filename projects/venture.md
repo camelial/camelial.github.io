@@ -17,7 +17,7 @@ summary: A web app to help students at U.H. Manoa find activities to do in Hawai
 
 Venture is a web application created to help students at U.H. Manoa find activities to do in Hawaii, and friends to do go on adventures with. We noticed that our fellow students at our school, especially the ones who are not originally from Hawaii, are not always aware of the possibilities that our beautiful island offers. Furthermore, U.H. students may want to participate in activities and try new things, but not have friends who are interested in doing those activities with them. College is the time to have fun, venture out, and make friends, and Venture's purpose is to encourage U.H. students to meet new people who share the same passions, and explore our island with peers, and have fun!
 
-<div style="float: right;">
+<div>
 <img class="ui medium right floated image" src="../images/venture-final-friend-search.png">
 <img class="ui medium right floated image" src="../images/venture-final-dashboard-2.png">
 </div>
