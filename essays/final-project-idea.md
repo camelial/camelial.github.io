@@ -6,6 +6,7 @@ date: 2017-10-19
 labels:
   - Software Engineering
   - Meteor
+published: false
 ---
 
 # The problem
