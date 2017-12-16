@@ -29,6 +29,11 @@
   },
   "interests": [
     {
+      "name": "databases",
+      "keywords": [
+        ]
+    },
+    {
       "name": "artificial intelligence",
       "keywords": [
       ]
@@ -88,26 +93,37 @@
           "ICS 211 Intro to Computer Science II",
           "ICS 141 Discrete Math 1",
           "ICS 241 Discrete Math 2",
-          "ICS 311 Algorithms (current)",
-          "ICS 314 Software Engineering I (current)",
+          "ICS 311 Algorithms",
+          "ICS 314 Software Engineering I",
           "MATH 241 Calculus I",
           "MATH 242 Calculus II",
           "PHYS 151/151L College Physics I and lab",
           "CHEM 162/162L Chemistry II and lab",
           "ANTH 151 Emerging Humanity", 
           "GEOG 102 World Regional Geography",
-          "AMST 212 Global American Issues (current)",
-          "JPN 202 Intermediate Japanese II (current)"
+          "AMST 212 Global American Issues",
+          "JPN 202 Intermediate Japanese II"
       ]
     }
   ],
   "work": [
     {
+      "company": "STAR Team at the University of Hawaii",
+      "position": "SQL Programmer",
+      "website": "https://www.star.hawaii.edu/",
+      "startDate": "2017-11-28",
+      "endDate": "present",
+      "summary": "Maintaining the student registration databases for the STAR Registration system for the University of Hawaii."
+      "hilights": [
+        "Developing subprocedures in SQL"
+      ]
+    },
+    {
       "company": "Kai Hawaii, Inc.",
       "position": "IT Assistant",
       "website": "",
       "startDate": "2017-03-02",
-      "endDate": "Present",
+      "endDate": "2017-11-22",
       "summary": "Computer, network, and server maintainence and developing Microsoft Outlook applications",
       "highlights": [
         "Developed project folder search and engineering project management add-ins for Microsoft Outlook"
