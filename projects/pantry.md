@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/pm003.jpg
+image: images/pantry_small.PNG
 title: Pantry! Inventory and Shopping List App
 permalink: projects/pantry
 date: 2018
@@ -12,8 +12,8 @@ summary: An automatically updating shopping list / inventory (2 in 1) app that I
 ---
 
 <div style="float: right;">
-<img class="ui image" src="../images/pm004.PNG">
-<img class="ui image" src="../images/pm005.PNG">
+<img class="ui image" src="../images/pantryhome.PNG">
+<img class="ui image" src="../images/pantryshoppinglist.PNG">
 </div>
 
 
