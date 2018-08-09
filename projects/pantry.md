@@ -21,3 +21,5 @@ For my final project for ICS 321 (Intro to Databases), I developed a simple data
 
 Another idea I recently had for the improvement of this app was to incorporate recipes into the databases, which would allow users to add all ingredients for a recipe and their respective quantities to their shopping list rather than individual ingredients. This would further simplify the process of creating the shopping list.
 
+Click <a ref="https://youtu.be/V6tlBIqKXPA">here</a> to see a video further explaining my app.
+
